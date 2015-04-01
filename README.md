@@ -1,8 +1,8 @@
-# 自动翻墙TCP透明代理
+# TCP 透明代理
 
 主要实现思路参考 [`cow`](https://github.com/cyfdecyf/cow) 能自动检测 IP 是否被墙, 如果被墙则使用二级代理. 二级代理目前只支持 shadowsocks
 
-该工具实现了内网的自动翻墙, 同时保证了墙内网站的访问速度, 也为你的翻墙 vps 节约了有限的带宽.
+该工具实现了内网的自动[fan qiang], 同时保证了国内网站的访问速度, 也为你的 vps 节约有限的带宽/流量.
 
 欢迎在 develop branch 进行开发并发送 pull request :)
 
