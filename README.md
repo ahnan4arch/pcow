@@ -1,3 +1,5 @@
+# 嗯, 是的. 我准备开发一个这样的工具...
+
 # TCP 透明代理
 
 主要实现思路参考 [`cow`](https://github.com/cyfdecyf/cow) 能自动检测 IP 是否被墙, 如果被墙则使用二级代理. 二级代理目前只支持 shadowsocks
